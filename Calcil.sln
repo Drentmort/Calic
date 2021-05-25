@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcil", "Calcil\Calcil.csproj", "{BFBECE8B-F7DA-419A-8C95-50FFAF66B88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBECE8B-F7DA-419A-8C95-50FFAF66B88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBECE8B-F7DA-419A-8C95-50FFAF66B88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBECE8B-F7DA-419A-8C95-50FFAF66B88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBECE8B-F7DA-419A-8C95-50FFAF66B88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA5D362-9DE5-47C5-899E-6A8211185C92}
+	EndGlobalSection
+EndGlobal

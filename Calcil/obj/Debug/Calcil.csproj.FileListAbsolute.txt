@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\Calcil\Calcil\bin\Debug\Calcil.exe.config
+C:\Users\Anton\source\repos\Calcil\Calcil\bin\Debug\Calcil.exe
+C:\Users\Anton\source\repos\Calcil\Calcil\bin\Debug\Calcil.pdb
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.MainForm.resources
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.Properties.Resources.resources
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.exe
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.pdb
+C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.csprojAssemblyReference.cache
