@@ -8,3 +8,14 @@ C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.csproj.CoreCompileInp
 C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.exe
 C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.pdb
 C:\Users\Anton\source\repos\Calcil\Calcil\obj\Debug\Calcil.csprojAssemblyReference.cache
+C:\Users\aan\source\repos\Calic-main\Calcil\bin\Debug\Calcil.exe.config
+C:\Users\aan\source\repos\Calic-main\Calcil\bin\Debug\Calcil.exe
+C:\Users\aan\source\repos\Calic-main\Calcil\bin\Debug\Calcil.pdb
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.csprojAssemblyReference.cache
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.MainForm.resources
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.Properties.Resources.resources
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.csproj.GenerateResource.cache
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.csproj.CoreCompileInputs.cache
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.exe
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.pdb
+C:\Users\aan\source\repos\Calic-main\Calcil\obj\Debug\Calcil.TestButton.resources
